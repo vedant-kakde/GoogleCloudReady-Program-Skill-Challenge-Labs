@@ -1,1 +1,1 @@
-# GoogleCloudReady-Program-Skill-Challenege-Labs
+# GoogleCloudReady-Program-Skill-Challenge-Labs
